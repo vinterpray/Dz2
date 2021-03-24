@@ -22,10 +22,10 @@ $num = count($arr);
     <title>Document</title>
     <style>
         html {
-            height: 100%; /* Высота веб-страницы */
+            height: 100%;
             background: #000 url(https://i.pinimg.com/originals/e6/8e/7d/e68e7df444a43c28f0a99d7fffbacf1c.gif)
-            no-repeat right bottom; /* Путь к графическому файлу с фоном */
-            color: #fff; /* Белый цвет текста */
+            no-repeat right bottom;
+            color: #fff;
         }
     </style>
 </head>
